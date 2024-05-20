@@ -28,13 +28,9 @@
 
 
 - Run : scrapy runspider RqNewsTG.py -O newsoftheday.csv
-
   *The online news site The Guardian will be crawled, filter important data and create the file "newsoftheday.csv"*
 
-- Run : python ConsultingForTag.py 
+- Run : python ConsultingForTag.py
+  *This will consult the file that has already been added to Google's bigquery, through the input 'Tag' provided by the user, and will return the news that matches the tag.*
 
-<<<<<<< HEAD
-  *This will consult the file that has already been added to Google's bigquery, through the input 'Tag' provided by the user, and will return the news that matches the tag.*
-=======
-  *This will consult the file that has already been added to Google's bigquery, through the input 'Tag' provided by the user, and will return the news that matches the tag.*
->>>>>>> 1d2d25c736b4b8662d464a84ce39a1968c8e9124
+
