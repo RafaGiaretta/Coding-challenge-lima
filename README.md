@@ -20,7 +20,7 @@
 
 - In the ConsultingForTag.py make this changes:
 
-<img src="GUIDE1.jpg" width="50%">  <img src="newJSONpath.jpg" width="50%">  
+<img src="newJSONpath.jpg" width="50%">  <img src="GUIDE1.jpg" width="50%">  
 
 
 
